@@ -10,9 +10,9 @@ You'll need Python though.
 
 It prints "hello,world!". What else do you need?
 
-...
+'''
 print("Hello, world!")
-...
+'''
 
 > "This is a great app!" - Somebody
 
